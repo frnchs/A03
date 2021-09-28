@@ -53,4 +53,4 @@
 
 <sub>Sources</sub>
 <sub><a href=https://docs.github.com/en/get-started/quickstart/github-glossary>Github.com "Github Glossary"</a></sub>
-<sub><a href=https://digital.gov/resources/an-introduction-github>Digital.Gov "An Introduction to Github"></a></sub>
+<sub><a href=https://digital.gov/resources/an-introduction-github>Digital.gov "An Introduction to Github"></a></sub>
