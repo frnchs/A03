@@ -52,5 +52,5 @@
   <h5>A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including                 documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.</h5>
 
 <sub>Sources</sub>
-
-<sub><a href=https://docs.github.com/en/get-started/quickstart/github-glossary>Github Glossary</a></sub>
+<sub><a href=https://docs.github.com/en/get-started/quickstart/github-glossary>Github.com "Github Glossary"</a></sub>
+<sub><a href=https://digital.gov/resources/an-introduction-github>Digital.Gov "An Introduction to Github"></a></sub>
