@@ -25,7 +25,7 @@
 
 <h4><strong>Github</strong></h4>
 
-  <h5></h5>
+  <h5>GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.</h5>
 
 <h4><strong>Merge</strong></h4>
 
@@ -50,3 +50,7 @@
 <h4><strong>Repository</strong></h4>
 
   <h5>A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including                 documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.</h5>
+
+<sub>Sources</sub>
+
+<sub><a href=https://docs.github.com/en/get-started/quickstart/github-glossary>Github Glossary</a></sub>
